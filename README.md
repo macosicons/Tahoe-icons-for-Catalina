@@ -1,11 +1,12 @@
-# Monterey icons for Catalina 
+# Tahoe icons for Catalina 
 
-macOS Monterey icons for macOS Catalina (auto-apply script)
+macOS Tahoe icons for macOS Catalina (auto-apply script)
 
+Contribution: DocSystem → StevenRCE0 → radis234
 
 ## TO DO LIST
 
-- [x] Update icons to macOS Monterey version
+- [x] Update icons to macOS Tahoe version
 - [x] Backup and restore functionality
 - [ ] Dynamic calendar icon in Dock
 
